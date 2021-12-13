@@ -1,4 +1,4 @@
-TUTS LINK: https://www.youtube.com/watch?v=hhZtiytNaBQ
+TUTS LINK: https://www.youtube.com/watch?v=hhZtiytNaBQ 1.52
 
 Tutorial Review: Good for learning basic CSS
 
