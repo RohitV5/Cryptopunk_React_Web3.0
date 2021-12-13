@@ -12,6 +12,8 @@ connect account on thirdweb
 
 add some mints on thirdweb
 
+opensea for checking all transactions by using hash
+
 
 Learn 
     how to add css to components;
